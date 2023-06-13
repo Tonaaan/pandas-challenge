@@ -1,0 +1,19 @@
+We were given data that provides information about various schools, including their type, total students, 
+total school budget, per student budget, average math score, average reading score, percentage of students passing math, 
+percentage of students passing reading, and overall passing percentage. 
+Based on the data, the highest performing schools are all charter schools. 
+Cabrera High School has the highest overall passing percentage of 91.33%, followed by Thomas High School (90.95%), 
+Griffin High School (90.60%), Wilson High School (90.58%), and Pena High School (90.54%). 
+These schools also have higher average math and reading scores compared to the district schools.
+While the bottom performing schools are all district schools. 
+Rodriguez High School has the lowest overall passing percentage of 52.99%, followed by Figueroa High School (53.20%), 
+Huang High School (53.51%), Hernandez High School (53.53%), and Johnson High School (53.54%). 
+These schools also have lower average math and reading scores compared to the charter schools.
+
+
+Conclusion
+1. We can then say  that charter schools tend to perform better academically compared to district schools. 
+Charter schools have higher overall passing percentages and average scores in both math and reading.
+
+2. The highest-performing schools have lower per student budgets compared to the bottom-performing schools. 
+This indicates that a higher budget per student does not necessarily guarantee better academic performance.
